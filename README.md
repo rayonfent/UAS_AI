@@ -7,7 +7,7 @@ Fungsi greedy_bfs() menggunakan antrian prioritas untuk mengevaluasi rute. Outpu
 ['Malioboro', 'Kraton', 'Tamansari', 'Tebing Breksi']
 
 #LEARNING
-Menggunakan pustaka pandas, sklearn, dan TfidfVectorizer. Model dilatih menggunakan MultinomialNB dan dievaluasi menggunakan classification_report.
+Menggunakan pustaka pandas, sklearn, dan TfidfVectorizer. dievaluasi menggunakan classification_report.
 Hasil Output Evaluasi
 Model memberikan hasil klasifikasi sempurna:
 
